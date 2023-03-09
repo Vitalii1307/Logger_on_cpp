@@ -1,0 +1,15 @@
+/home/vitaliisavchuk/projects/projects_on_Csh/my_project/bin/Debug/net6.0/my_project
+/home/vitaliisavchuk/projects/projects_on_Csh/my_project/bin/Debug/net6.0/my_project.deps.json
+/home/vitaliisavchuk/projects/projects_on_Csh/my_project/bin/Debug/net6.0/my_project.runtimeconfig.json
+/home/vitaliisavchuk/projects/projects_on_Csh/my_project/bin/Debug/net6.0/my_project.dll
+/home/vitaliisavchuk/projects/projects_on_Csh/my_project/bin/Debug/net6.0/ref/my_project.dll
+/home/vitaliisavchuk/projects/projects_on_Csh/my_project/bin/Debug/net6.0/my_project.pdb
+/home/vitaliisavchuk/projects/projects_on_Csh/my_project/obj/Debug/net6.0/my_project.csproj.AssemblyReference.cache
+/home/vitaliisavchuk/projects/projects_on_Csh/my_project/obj/Debug/net6.0/my_project.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitaliisavchuk/projects/projects_on_Csh/my_project/obj/Debug/net6.0/my_project.AssemblyInfoInputs.cache
+/home/vitaliisavchuk/projects/projects_on_Csh/my_project/obj/Debug/net6.0/my_project.AssemblyInfo.cs
+/home/vitaliisavchuk/projects/projects_on_Csh/my_project/obj/Debug/net6.0/my_project.csproj.CoreCompileInputs.cache
+/home/vitaliisavchuk/projects/projects_on_Csh/my_project/obj/Debug/net6.0/my_project.dll
+/home/vitaliisavchuk/projects/projects_on_Csh/my_project/obj/Debug/net6.0/ref/my_project.dll
+/home/vitaliisavchuk/projects/projects_on_Csh/my_project/obj/Debug/net6.0/my_project.pdb
+/home/vitaliisavchuk/projects/projects_on_Csh/my_project/obj/Debug/net6.0/my_project.genruntimeconfig.cache
